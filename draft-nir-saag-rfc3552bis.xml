@@ -3,41 +3,41 @@
 
 <!DOCTYPE rfc SYSTEM "rfc2629.dtd" [
 <!ENTITY rfc2119 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2119.xml"> 
-<!ENTITY rfc2402 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2402.xml"> 
-<!ENTITY rfc2535 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2535.xml"> 
+<!ENTITY rfc4302 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4302.xml"> 
+<!ENTITY rfc4033 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4033.xml"> 
 <!ENTITY rfc2946 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2946.xml"> 
-<!ENTITY rfc2406 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2406.xml"> 
+<!ENTITY rfc4303 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4303.xml"> 
 <!ENTITY rfc2743 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2743.xml"> 
-<!ENTITY rfc2616 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2616.xml"> 
+<!ENTITY rfc7230 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.7230.xml"> 
 <!ENTITY rfc2818 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2818.xml"> 
 <!ENTITY rfc2403 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2403.xml"> 
-<!ENTITY rfc1510 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.1510.xml"> 
+<!ENTITY rfc4120 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4120.xml"> 
 <!ENTITY rfc2289 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2289.xml"> 
 <!ENTITY rfc2522 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2522.xml"> 
-<!ENTITY rfc3280 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3280.xml"> 
-<!ENTITY rfc2223 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2223.xml"> 
+<!ENTITY rfc5280 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5280.xml"> 
+<!ENTITY rfc7322 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.7322.xml"> 
 <!ENTITY rfc2505 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2505.xml"> 
-<!ENTITY rfc2821 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2821.xml"> 
-<!ENTITY rfc2222 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2222.xml"> 
+<!ENTITY rfc5231 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5231.xml"> 
+<!ENTITY rfc4422 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4422.xml"> 
 <!ENTITY rfc2693 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2693.xml"> 
-<!ENTITY rfc2554 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2554.xml"> 
+<!ENTITY rfc4954 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4954.xml"> 
 <!ENTITY rfc3207 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3207.xml"> 
 <!ENTITY rfc2660 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2660.xml"> 
-<!ENTITY rfc2633 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2633.xml"> 
+<!ENTITY rfc5751 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5751.xml"> 
 <!ENTITY rfc0854 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.0854.xml">
-<!ENTITY rfc0822 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.0822.xml">
-<!ENTITY rfc2246 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2246.xml">
-<!ENTITY rfc3546 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3546.xml">
+<!ENTITY rfc5322 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5322.xml">
+<!ENTITY rfc5246 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5246.xml">
 <!ENTITY rfc2817 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2817.xml">
 <!ENTITY rfc1738 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.1738.xml">
-<!ENTITY rfc2338 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2338.xml">
+<!ENTITY rfc5798 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5798.xml">
 <!ENTITY rfc4253 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4253.xml">
 <!ENTITY rfc1414 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.1414.xml">
 <!ENTITY rfc1704 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.1704.xml">
-<!ENTITY rfc0977 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.0977.xml"> 
+<!ENTITY rfc3977 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3977.xml"> 
+<!ENTITY rfc0791 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.0791.xml"> 
 <!ENTITY rfc1939 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.1939.xml"> 
 <!ENTITY rfc5406 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5406.xml"> 
-<!ENTITY rfc2385 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2385.xml">
+<!ENTITY rfc5925 SYSTEM "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5925.xml">
 ]>
 
 
@@ -90,7 +90,7 @@
   <middle>
     <!-- ====================================================================== -->
     <section anchor="introduction" title="Introduction">
-      <t> All RFCs are required by <xref target="RFC2223"/> to contain a Security 
+      <t> All RFCs are required by <xref target="RFC7322"/> to contain a Security 
         Considerations section. The purpose of this is both to encourage document authors 
         to consider security in their designs and to inform the reader of relevant 
         security issues. This memo is intended to provide guidance to RFC authors in 
@@ -248,7 +248,7 @@
       <t> It's important to realize that the meaning of a PDU is different at different 
         levels.  At the IP level, a PDU means an IP packet.  At the TCP level, it means a 
         TCP segment.  At the application layer, it means some kind of application PDU. For 
-        instance, at the level of email, it might either mean an <xref target="RFC0822" /> 
+        instance, at the level of email, it might either mean an <xref target="RFC5322" /> 
         message or a single SMTP command.  At the HTTP level, it might mean a request or 
         response.</t>
       <section anchor="ltm" title="Limited Threat Models">
@@ -306,7 +306,7 @@
           <t> Another example of a passive attack is PASSWORD SNIFFING.  Password sniffing 
             is directed towards obtaining unauthorized use of resources. Many protocols, 
             including TELNET <xref target="RFC0854" />, POP <xref target="RFC1939" />, and 
-            NNTP <xref target="RFC0977" /> use a shared password to authenticate the client 
+            NNTP <xref target="RFC3977" /> use a shared password to authenticate the client 
             to the server. Frequently, this password is transmitted from the client to the 
             server in the clear over the communications channel.  An attacker who can read 
             this traffic can therefore capture the password and REPLAY it.  In other 
@@ -483,12 +483,12 @@
           <t> One specialized case of on-path is being on the same link.  In some 
             situations, it's desirable to distinguish between hosts who are on the local 
             network and those who are not.  The standard technique for this is verifying 
-            the IP TTL value [IP].  Since the TTL must be decremented by each forwarder, a 
-            protocol can demand that TTL be set to 255 and that all receivers verify the 
-            TTL.  A receiver then has some reason to believe that conforming packets are 
-            from the same link.  Note that this technique must be used with care in the 
-            presence of tunneling systems, since such systems may pass packets without 
-            decrementing TTL.</t>
+            the IP TTL value <xref target="RFC0791"/>.  Since the TTL must be decremented
+            by each forwarder, a protocol can demand that TTL be set to 255 and that all
+            receivers verify the TTL.  A receiver then has some reason to believe that
+            conforming packets are from the same link.  Note that this technique must be
+            used with care in the presence of tunneling systems, since such systems may
+            pass packets without decrementing TTL.</t>
         </section>
       </section>
    </section>
@@ -557,13 +557,13 @@
          KDC which gives it a TICKET containing a randomly generated symmetric key 
          encrypted under both peer's keys.  Since only the proper peers can decrypt the 
          symmetric key the ticket can be used to establish a trusted association.  By far 
-         the most popular KDC system is Kerberos <xref target="RFC1510" />.</t>
+         the most popular KDC system is Kerberos <xref target="RFC4120" />.</t>
        </section>
        <section anchor="uacert" title="Certificates">
          <t> A simple approach is to have all users have CERTIFICATES <xref 
-           target="RFC3280" /> which they then use to authenticate in some 
-           protocol-specific way, as in TLS <xref target="RFC2246" /> or S/MIME <xref 
-           target="RFC2633" />.  A certificate is a signed credential binding an entity's 
+           target="RFC5280" /> which they then use to authenticate in some 
+           protocol-specific way, as in TLS <xref target="RFC5246" /> or S/MIME <xref 
+           target="RFC5751" />.  A certificate is a signed credential binding an entity's 
            identity to its public key.  The signer of a certificate is a CERTIFICATE 
            AUTHORITY (CA), whose certificate may itself be signed by some superior CA.  In 
            order for this system to work, trust in one or more CAs must be established in 
@@ -587,16 +587,16 @@
        </section>
        <section anchor="uahost" title="Host Authentication">
          <t> Host authentication presents a special problem.  Quite commonly, the 
-           addresses of services are presented using a DNS hostname, for instance as a URL 
-           <xref target="RFC1738" />.  When requesting such a service, one has to ensure 
-           that the entity that one is talking to not only has a certificate but that that 
-           certificate corresponds to the expected identity of the server.  The important 
-           thing to have is a secure binding between the certificate and the expected 
-           hostname.</t>
+           addresses of services are presented using a DNS hostname, for instance as a 
+           Uniform Resource Locator (URL) <xref target="RFC1738"/>.  When requesting such
+           a service, one has to ensure that the entity that one is talking to not only
+           has a certificate but that that certificate corresponds to the expected
+           identity of the server.  The important thing to have is a secure binding
+           between the certificate and the expected hostname.</t>
          <t> For instance, it is usually not acceptable for the certificate to contain an 
            identity in the form of an IP address if the request was for a given hostname.  
            This does not provide end-to-end security because the hostname-IP mapping is 
-           not secure unless secure name resolution [DNSSEC] is being used.  This is a 
+           not secure unless secure name resolution (DNSSEC) is being used.  This is a 
            particular problem when the hostname is presented at the application layer but 
            the authentication is performed at some lower layer.</t>
        </section>
@@ -612,7 +612,7 @@
          mechanisms in a pluggable fashion.  Application protocol designers then arrange 
          to carry the security protocol PDUs in their application protocol.  Examples of 
          such frameworks include GSS-API <xref target="RFC2743"/> and SASL 
-         <xref target="RFC2222"/>.</t>
+         <xref target="RFC4422"/>.</t>
        <t> The generic framework approach has a number of problems.  First, it is highly 
          susceptible to DOWNGRADE ATTACKS.  In a downgrade attack, an active attacker 
          tampers with the negotiation in order to force the parties to negotiate weaker 
@@ -703,7 +703,7 @@
            completely explored.  One approach is simply to attach policies to ACLs 
            describing what sorts of certificates are trusted. Another approach is to carry 
            that information with the certificate, either as a certificate 
-           extension/attribute (PKIX <xref target="RFC3280"/>, SPKI <xref 
+           extension/attribute (PKIX <xref target="RFC5280"/>, SPKI <xref 
            target="RFC2693"/>) or as a separate "Attribute Certificate".</t>
        </section>
      </section>
@@ -711,12 +711,12 @@
        <t> Securely designed protocols should provide some mechanism for securing (meaning 
          integrity protecting, authenticating, and possibly encrypting) all sensitive 
          traffic.  One approach is to secure the protocol itself, as in DNSSEC <xref 
-         target="RFC2535"/>, S/MIME <xref target="RFC2633"/> or S-HTTP <xref 
+         target="RFC4033"/>, S/MIME <xref target="RFC5751"/> or S-HTTP <xref 
          target="RFC2660"/>.  Although this provides security which is most fitted to the 
          protocol, it also requires considerable effort to get right.</t>
        <t> Many protocols can be adequately secured using one of the available channel 
          security systems.  We'll discuss the two most common, IPsec <xref 
-         target="RFC2402"/><xref target="RFC2406"/> and TLS <xref target="RFC2246"/>.</t>
+         target="RFC4302"/><xref target="RFC4303"/> and TLS <xref target="RFC5246"/>.</t>
        <section anchor="ipsec" title="IPsec">
          <t> The IPsec protocols (specifically, AH and ESP) can provide transmission 
            security for all traffic between two hosts. The IPsec protocols support varying 
@@ -759,7 +759,7 @@
          <t> In the special-case of IPv6, both AH and ESP are mandatory to implement.  
            Hence, it is reasonable to assume that AH/ESP are already available for 
            IPv6-only protocols or IPv6-only deployments. However, automatic key management 
-           (IKE) is not required to implement so protocol designers SHOULD not assume it 
+           (IKE) is not required to implement so protocol designers should not assume it 
            will be present. <xref target="RFC5406"/> provides quite a bit of guidance on 
            when IPsec is a good choice.</t>
        </section>
@@ -786,15 +786,15 @@
            connection survivability in the face of such attacks.  By contrast, if IPsec 
            were being used, such a forged RST could be rejected without affecting the TCP 
            connection.  If forged RSTs or other such attacks on the TCP connection are a 
-           concern, then AH/ESP or the TCP MD5 option <xref target="RFC2385"/> are the 
-           preferred choices.</t>
+           concern, then AH/ESP or the TCP Authentication Option (TCP-AO) <xref
+           target="RFC5925"/> are the preferred choices.</t>
          <section anchor="sslvh" title="Virtual Hosts">
            <t> If the "separate ports" approach to TLS is used, then TLS will be 
              negotiated before any application-layer traffic is sent.  This can cause a 
              problem with protocols that use virtual hosts, such as HTTP <xref 
-             target="RFC2616"/>, since the server does not know which certificate to offer 
+             target="RFC7230"/>, since the server does not know which certificate to offer 
              the client during the TLS handshake.  The TLS hostname extension <xref 
-             target="RFC3546"/> can be used to solve this problem, although it is too new 
+             target="RFC5246"/> can be used to solve this problem, although it is too new 
              to have seen wide deployment.</t>
          </section>
          <section anchor="sslremoteauth" title="Remote Authentication and TLS">
@@ -1074,12 +1074,12 @@
        good security considerations section clipped from a current protocol.</t>
      <section anchor="smtp" title="SMTP">
        <t> When RFC 821 was written, Security Considerations sections were not required in 
-         RFCs, and none is contained in that document. <xref target="RFC2821"/> updated 
+         RFCs, and none is contained in that document. <xref target="RFC5231"/> updated 
          RFC 821 and added a detailed security considerations section. We reproduce here 
          the Security Considerations section from that document (with new section 
          numbers).  Our comments are indented and prefaced with 'NOTE:'.  We also add a 
          number of new sections to cover topics we consider important. Those sections are 
-         marked with [NEW] in the section header.</t>
+         marked with (NEW) in the section header.</t>
        <section anchor="smtp_sec_cons" title="Security Considerations">
          <section anchor="ssc_1" title="Mail Security and Spoofing">
            <t> SMTP mail is inherently insecure in that it is feasible for even fairly 
@@ -1217,7 +1217,7 @@
              policy reasons, a 550 code SHOULD be used in response to EHLO, MAIL, or RCPT 
              as appropriate.</t>
          </section>
-         <section anchor="ssc_8" title="Inappropriate Usage [NEW]">
+         <section anchor="ssc_8" title="Inappropriate Usage (NEW)">
            <t> SMTP itself provides no protection is provided against unsolicited 
              commercial mass e-mail (aka spam). It is extremely difficult to tell a priori 
              whether a given message is spam or not.  From a protocol perspective, spam is 
@@ -1239,7 +1239,7 @@
              which will perform mail relaying for any sender. As a consequence, there are 
              now blacklists such as Open Relay Blocking System (ORBS) of open relays as
              well.</t>
-           <section anchor="ssc_8_1" title="Closed Relaying [NEW]">
+           <section anchor="ssc_8_1" title="Closed Relaying (NEW)">
              <t> To avoid being used for spam forwarding, many SMTP servers operate as 
                closed relays, providing relaying service only for clients who they can 
                identify.  Such relays should generally insist that senders advertise a 
@@ -1248,9 +1248,9 @@
                or an ISP's network) then it is sufficient to block all other IP 
                addresses).  In other cases, explicit authentication must be used.  The two 
                standard choices for this are TLS through STARTTLS <xref target="RFC3207"/>
-               and SASL <xref target="RFC2554"/>.</t>
+               and SASL <xref target="RFC4954"/>.</t>
            </section>
-           <section anchor="ssc_8_2" title="Endpoints [NEW]">
+           <section anchor="ssc_8_2" title="Endpoints (NEW)">
              <t> Realistically, SMTP endpoints cannot refuse to deny service to 
                unauthenticated senders.  Since the vast majority of senders are 
                unauthenticated, this would break Internet mail interoperability. The 
@@ -1261,7 +1261,7 @@
            </section>
          </section>
        </section>
-       <section anchor="smtp_comsec" title="Communications security issues [NEW]">
+       <section anchor="smtp_comsec" title="Communications security issues (NEW)">
          <t> SMTP itself provides no communications security, and therefore a large number 
            of attacks are possible.  A passive attack is sufficient to recover the text of 
            messages transmitted with SMTP.  No endpoint authentication is provided by the 
@@ -1278,7 +1278,7 @@
            <t> SMTP over IPSEC</t>
            <t> SMTP/TLS</t>
            <t> S/MIME and PGP/MIME</t></list></t>
-         <section anchor="scs_1" title="SMTP over IPSEC [NEW]">
+         <section anchor="scs_1" title="SMTP over IPSEC (NEW)">
            <t> An SMTP connection run over IPSEC can provide confidentiality for the 
              message between the sender and the first hop SMTP gateway, or between any 
              pair of connected SMTP gateways. That is to say, it provides channel security 
@@ -1310,7 +1310,7 @@
              see USEIPSEC <xref target="RFC5406"/> for general guidance on the 
              applicability of IPsec.</t>
          </section>
-         <section anchor="scs_2" title="SMTP/TLS [NEW]">
+         <section anchor="scs_2" title="SMTP/TLS (NEW)">
            <t> SMTP can be combined with TLS as described in STARTTLS <xref 
              target="RFC3207"/>.  This provides similar protection to that provided when 
              using IPsec. Since TLS certificates typically contain the server's host name, 
@@ -1323,7 +1323,7 @@
              the SMTP over TLS document is quite good and bears reading as an example of 
              how to do things.]</t>
          </section>
-         <section anchor="scs_3" title="S/MIME and PGP/MIME [NEW]">
+         <section anchor="scs_3" title="S/MIME and PGP/MIME (NEW)">
            <t> S/MIME and PGP/MIME are both message oriented security protocols. They 
              provide object security for individual messages.  With various settings, 
              sender and recipient authentication and confidentiality may be provided. More 
@@ -1336,7 +1336,7 @@
              confidentiality is provided, traffic analysis is still possible.</t>
          </section>
        </section>
-       <section anchor="smtp_dos" title="Denial of Service [NEW]">
+       <section anchor="smtp_dos" title="Denial of Service (NEW)">
          <t> None of these security measures provides any real protection against denial 
            of service.  SMTP connections can easily be used to tie up system resources in 
            a number of ways, including excessive port consumption, excessive disk usage 
@@ -1350,7 +1350,7 @@
      </section>
      <section anchor="vrrp" title="VRRP">
        <t> The second example is from VRRP, the Virtual Router Redundance Protocol 
-         <xref target="RFC2338"/>.  We reproduce here the Security Considerations section 
+         <xref target="RFC5798"/>.  We reproduce here the Security Considerations section 
          from that document (with new section numbers).  Our comments are indented and 
          prefaced with 'NOTE:'.</t>
        <section anchor="vrrp_sec_cons" title="Security Considerations">
@@ -1400,7 +1400,7 @@
          <section anchor="vsc_3" title="IP Authentication Header">
            <t> The use of this authentication type means the VRRP protocol exchanges are 
              authenticated using the mechanisms defined by the IP Authentication Header 
-             <xref target="RFC2402"/> using HMAC <xref target="RFC2403"/>.  This provides 
+             <xref target="RFC4302"/> using HMAC <xref target="RFC2403"/>.  This provides 
              strong protection against configuration errors, replay attacks, and packet 
              corruption/modification.</t>
            <t> This type of authentication is RECOMMENDED when there is limited control 
@@ -1462,34 +1462,43 @@
   <back>
     <references title="Normative References">
       &rfc2119;
-      &rfc2402;
-      &rfc2535;
+      &rfc4302;
+      &rfc4033;
       &rfc2946;
-      &rfc2406;
+      &rfc4303;
       &rfc2743;
-      &rfc2616;
-      &rfc2818;
+      &rfc7230;
       &rfc2403;
-      &rfc1510;
+      &rfc4120;
       &rfc2289;
-      &rfc2522;
-      &rfc3280;
-      &rfc2223;
+      &rfc5280;
       &rfc2505;
-      &rfc2821;
-      &rfc2222;
-      &rfc2693;
-      &rfc2554;
+      &rfc5231;
+      &rfc4422;
+      &rfc4954;
       &rfc3207;
-      &rfc2660;
-      &rfc2633;
+      &rfc5751;
       &rfc0854;
-      &rfc2246;
-      &rfc3546;
+      &rfc5246;
       &rfc2817;
-      &rfc1738;
-      &rfc2338;
+      &rfc5798;
       &rfc4253;
+    </references>
+    <references title="Informative References"> 
+      &rfc1414;
+      &rfc1704;
+      &rfc3977;
+      &rfc0791;
+      &rfc5322;
+      &rfc1939;
+      &rfc5406;
+      &rfc5925;
+      &rfc2818;
+      &rfc2522;
+      &rfc2693;
+      &rfc2660;
+      &rfc7322;
+      &rfc1738;
       <reference anchor="TCPSYN" target="http://www.cert.org/advisories/CA-1996-21.html">
         <front>
           <title>TCP SYN Flooding and IP Spoofing Attacks</title>
@@ -1499,15 +1508,6 @@
         <seriesInfo name='CERT Advisory' value='CA-1996-21' />
         <format type='HTML' target='http://www.cert.org/advisories/CA-1996-21.html' />
       </reference> 
-    </references>
-    <references title="Informative References"> 
-      &rfc1414;
-      &rfc1704;
-      &rfc0977;
-      &rfc0822;
-      &rfc1939;
-      &rfc5406;
-      &rfc2385;
       <reference anchor="DDOS" target="http://www.cert.org/advisories/CA-1999-17.html">
         <front>
           <title>Denial-Of-Service Tools</title>
@@ -1635,5 +1635,4 @@
     <!-- ====================================================================== -->
   </back>
 </rfc>
-
 
